@@ -27,8 +27,8 @@
 ## 🚀 Быстрый запуск
 
 ```bash
-git clone https://github.com/zxcThienla0/news-carousel.git  
-cd news-carousel  
+git clone https://github.com/zxcThienla0/Akella24front.git  
+cd Akella24front 
 npm install  
 npm run dev
 ```
