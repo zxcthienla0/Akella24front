@@ -1,4 +1,4 @@
-# 📰 News Carousel — React Learning Project  
+# Akella24front 
 **A lightweight, responsive news slider built with modern React 19 + TypeScript**
 
 <div align="center">
