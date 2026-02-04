@@ -13,7 +13,7 @@ import HomePage from './components/main/homePage/homePage';
 export default function App() {
   return (
     <>
-      <Router basename='/'>
+      <Router basename='/Akella24front'>
         <Header />
         <br /><br />
         <Routes>
