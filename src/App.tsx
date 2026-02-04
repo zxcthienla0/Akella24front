@@ -13,7 +13,7 @@ import HomePage from './components/main/homePage/homePage';
 export default function App() {
   return (
     <>
-      <Router basename='/ReactProj4Portfolio'>
+      <Router basename='/'>
         <Header />
         <br /><br />
         <Routes>

@@ -7,5 +7,5 @@ export default defineConfig({
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx'],
   },
-   base: '/Akella24front/',
+   base: '/',
 })
